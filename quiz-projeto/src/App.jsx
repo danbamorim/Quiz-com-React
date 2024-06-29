@@ -1,12 +1,12 @@
 import './App.css'
-import { Welcome } from './components/Welcome'
+import  Welcome  from "./components/Welcome"
 
 function App() {
 
   return (
-    <div className='app'>
+    <div className="App">
       <h1>QUIZ</h1>
-      <Welcome />
+      < Welcome />
     </div>
   )
 }
